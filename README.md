@@ -1,5 +1,5 @@
 # 🌍 Earthquake Data Analysis (1995–2023)
-### Data Science Project — Group 24 | The British University in Egypt
+### Data Science Project | The British University in Egypt
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
@@ -21,8 +21,8 @@ This is a **two-phase project** — Phase 1 focused on cleaning and aggregation,
 |---|---|
 | Ahmed Gamal | Depth vs. tsunami probability, seismic monitoring quality, dmin vs. gap/nst, day vs. night detection, alert distribution |
 | Ahmed Abousheisha | Depth/magnitude vs. human perception (CDI, MMI, SIG) by region |
-| [Member 3 - Karim 240829] | Magnitude vs. depth level, frequency of magnitude ranges, shallow earthquakes vs. damage |
-| [Member 4] | Earthquake trends over time, deaths vs. magnitude, regional death differences |
+| Karim | Magnitude vs. depth level, frequency of magnitude ranges, shallow earthquakes vs. damage |
+| Mohamed Hisham | Earthquake trends over time, deaths vs. magnitude, regional death differences |
 
 ---
 
